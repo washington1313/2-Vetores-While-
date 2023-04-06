@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\2 Vetores (While)\2 Vetores (While)\bin\Debug\2 Vetores (While).exe.config
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\2 Vetores (While)\2 Vetores (While)\bin\Debug\2 Vetores (While).exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\2 Vetores (While)\2 Vetores (While)\bin\Debug\2 Vetores (While).pdb
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\2 Vetores (While)\2 Vetores (While)\obj\Debug\2 Vetores (While).csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\2 Vetores (While)\2 Vetores (While)\obj\Debug\2 Vetores (While).csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\2 Vetores (While)\2 Vetores (While)\obj\Debug\2 Vetores (While).csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\2 Vetores (While)\2 Vetores (While)\obj\Debug\2 Vetores (While).exe
+C:\Users\wmfbh\OneDrive\Área de Trabalho\Visual\2 Vetores (While)\2 Vetores (While)\obj\Debug\2 Vetores (While).pdb
